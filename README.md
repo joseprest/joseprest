@@ -1,11 +1,3 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Jose Restrepo</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;React, Laravel/Vue Developer.\
-📄 &nbsp;Please have a look at my [Résumé](https://joseprest.netlify.app/) for more details about me.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -28,9 +20,3 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="mailto:jose.p.restrepo@gmail.com"><img src="https://img.shields.io/badge/-jose.p.restrepo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
-</p>
